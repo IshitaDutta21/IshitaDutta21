@@ -3,7 +3,7 @@
 I'm a final year student with a passion for software development and a keen interest in exploring new technologies. With a strong foundation in machine learning, I have developed expertise through hands-on projects, focusing on data analysis and algorithm creation. This knowledge empowers me to tackle complex problems and explore innovative solutions. Additionally, I excel at creating advanced and responsive web applications, crafting user-focused designs that seamlessly blend functionality with visual appeal.
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saptarshi-biswas-701813202/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-dutta-946146280/)
 
 ---
 
@@ -13,19 +13,15 @@ I'm a final year student with a passion for software development and a keen inte
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saptarshi2060&theme=dark&hide_border=false&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshitaDutta21&theme=dark&hide_border=false&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saptarshi2060&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IshitaDutta21&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshi2060&theme=dark&hide_border=false&layout=compact)
-
----
-
-## ✍ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaDutta21&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Saptarshi2060&color=blue)
+
+![Profile Views](https://komarev.com/ghpvc/?username=IshitaDutta21&color=blue)
 
 <!-- Proudly created with ❤ and GPRM (https://gprm.itsvg.in) -->
