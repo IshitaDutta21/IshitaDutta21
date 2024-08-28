@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ishita Dutta
 ## 🎓 About Me
-I'm a final year student with a passion for software development and a keen interest in exploring new technologies.I am an enthusiastic and motivated IT student with a solid foundation in Computer Science.
+I'm a final year student with a passion for software development and a keen interest in exploring new technologies.Enthusiastic and motivated IT student with a solid foundation in Computer Science.
 I am a quick learner with a keen interest in staying updated with the latest advancements in technology. I am seeking an opportunity to start my career in IT where I can grow, learn, and contribute to impactful projects.
 
 
