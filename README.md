@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Ishita Dutta
 ## 🎓 About Me
-I'm a final year student with a passion for software development and a keen interest in exploring new technologies. With a strong foundation in machine learning, I have developed expertise through hands-on projects, focusing on data analysis and algorithm creation. This knowledge empowers me to tackle complex problems and explore innovative solutions. Additionally, I excel at creating advanced and responsive web applications, crafting user-focused designs that seamlessly blend functionality with visual appeal.
+I'm a final year student with a passion for software development and a keen interest in exploring new technologies.I am an enthusiastic and motivated IT student with a solid foundation in Computer Science.
+I am a quick learner with a keen interest in staying updated with the latest advancements in technology. I am seeking an opportunity to start my career in IT where I can grow, learn, and contribute to impactful projects.
+
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-dutta-946146280/)
